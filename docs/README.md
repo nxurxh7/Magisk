@@ -1,4 +1,4 @@
-# Magisk Documentation
+# nxurxh7/Magisk Documentation
 
 - [Installation Instructions](install.md)
 - [Frequently Asked Questions](faq.md)

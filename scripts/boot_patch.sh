@@ -267,3 +267,6 @@ $CHROMEOS && sign_chromeos
 
 # Reset any error code
 true
+
+
+#realme c53
